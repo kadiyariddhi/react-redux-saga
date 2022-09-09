@@ -1,0 +1,8 @@
+.login-form-container{
+    position: relative;
+    height: 100VH;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
